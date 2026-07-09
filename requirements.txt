@@ -3,4 +3,6 @@ uvicorn[standard]
 python-multipart
 Pillow
 easyocr
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
