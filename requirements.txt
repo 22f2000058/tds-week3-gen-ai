@@ -1,6 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 python-multipart
 Pillow
-pydantic
-google-generativeai          # for Gemini
+easyocr
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
